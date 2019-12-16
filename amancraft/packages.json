@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "AmanCraft 2.0",
+      "name" : "AmanCraft2.0",
+      "version" : "2019-12-16-11-36-46",
+      "location" : "amancraft2.0.json",
+      "priority" : 1
+    }
+  ]
+}
