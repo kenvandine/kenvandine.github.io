@@ -4,14 +4,14 @@
     {
       "title" : "AmanCraft 2.0",
       "name" : "AmanCraft2.0",
-      "version" : "2019-12-16-11-36-46",
+      "version" : "2019-12-16-22-00-00",
       "location" : "amancraft2.0.json",
       "priority" : 1
     },
     {
-      "title" : "AmanCraft BuildCraft",
+      "title" : "AmanCraft Builders Paradise",
       "name" : "BuildCraft",
-      "version" : "2019-12-16-12-07-35",
+      "version" : "2019-12-16-22-00-13",
       "location" : "buildcraft.json",
       "priority" : 0
     }
