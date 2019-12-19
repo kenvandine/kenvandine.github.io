@@ -14,6 +14,13 @@
       "version" : "2019-12-16-22-00-13",
       "location" : "buildcraft.json",
       "priority" : 0
+    },
+    {
+      "title" : "AmanCraft SkyFactory4",
+      "name" : "SkyFactory4",
+      "version" : "2019-12-18-21-25-38",
+      "location" : "skyfactory4.json",
+      "priority" : 0
     }
   ]
 }
