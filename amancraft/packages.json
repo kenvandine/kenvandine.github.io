@@ -4,21 +4,21 @@
     {
       "title" : "AmanCraft 2.0",
       "name" : "AmanCraft2.0",
-      "version" : "2019-12-19-15-04-16",
+      "version" : "2019-12-20-16-49-44",
       "location" : "amancraft2.0.json",
       "priority" : 1
     },
     {
       "title" : "AmanCraft Builders Paradise",
       "name" : "BuildCraft",
-      "version" : "2019-12-19-15-04-31",
+      "version" : "2019-12-20-17-01-45",
       "location" : "buildcraft.json",
       "priority" : 0
     },
     {
       "title" : "AmanCraft SkyFactory4",
       "name" : "SkyFactory4",
-      "version" : "2019-12-19-15-04-40",
+      "version" : "2019-12-20-16-49-49",
       "location" : "skyfactory4.json",
       "priority" : 0
     }
