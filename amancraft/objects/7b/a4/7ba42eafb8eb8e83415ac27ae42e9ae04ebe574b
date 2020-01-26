@@ -1,0 +1,70 @@
+# Configuration file
+
+cluckies {
+    I:"Minimum Level Limit"=1
+}
+
+
+general {
+    B:"Allow Over Powered Items"=true
+    I:"Creature Spawn Rate"=50
+    B:"Don't download player skins"=false
+    I:"Player Spawn Rate"=50
+    I:"cLucky Spawn Rate"=50
+}
+
+
+"mob drops" {
+    I:"Money Drop Multiplier"=100
+}
+
+
+reviewing {
+    B:"Use Demo Structures"=false
+}
+
+
+structures {
+    I:"Spawn Dimensions" <
+        0
+     >
+    I:"Spawn Rarity"=4
+}
+
+
+youtubergroups {
+    B:Atlanicraft=true
+    B:Crundee=true
+    B:"Drunk Minecraft"=true
+    B:Hermitcraft=true
+    B:ItsJerryandHarry=true
+    B:Mindcrack=true
+    B:Mojang=true
+    B:"Reviewers of this mod"=true
+    B:"Stampy and friends"=true
+    B:"Storytellers?"=true
+    B:TeamCrafted=true
+    B:"The Creatures"=true
+    B:"The Diamond Minecart"=true
+    B:"The Yogscast"=true
+    B:TheCodyMaverick=true
+    B:ThePack=true
+    B:"Trolls and Pranksters"=true
+    B:"Unsorted 1"=true
+    B:"Unsorted 10"=true
+    B:"Unsorted 11"=true
+    B:"Unsorted 12"=true
+    B:"Unsorted 13"=true
+    B:"Unsorted 2"=true
+    B:"Unsorted 3"=true
+    B:"Unsorted 4"=true
+    B:"Unsorted 5"=true
+    B:"Unsorted 6"=true
+    B:"Unsorted 7"=true
+    B:"Unsorted 8"=true
+    B:"Unsorted 9"=true
+    B:"Unsorted Non English"=true
+    B:"non Minecrafters"=true
+}
+
+

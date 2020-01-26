@@ -1,0 +1,3 @@
+--userProperties {}
+--assetIndex 1.7.10
+-XX:MaxPermSize=256M

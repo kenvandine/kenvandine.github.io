@@ -1,0 +1,61 @@
+# Configuration file
+
+"skin config" {
+
+    sizes {
+        I:BackgroundHeight=54
+        I:BackgroundWidth=53
+        I:FrameHeight=64
+        I:FrameWidth=178
+        I:HealthBarHeight=12
+        I:HealthBarWidth=106
+        I:MobTypeSizeHeight=12
+        I:MobTypeSizeWidth=12
+        I:NamePlateHeight=12
+        I:NamePlateWidth=106
+        I:PotionBoxHeight=22
+        I:PotionBoxSidesWidth=4
+    }
+
+    positions {
+        I:BackgroundXOffset=-6
+        I:BackgroundYOffset=-5
+        I:FrameXOffset=-15
+        I:FrameYOffset=-5
+        I:HealthBarXOffset=50
+        I:HealthBarYOffset=17
+        I:MobPreviewOffsetX=-2
+        I:MobPreviewOffsetY=-4
+        I:MobTypeOffsetX=-6
+        I:MobTypeOffsetY=36
+        I:NamePlateXOffset=50
+        I:NamePlateYOffset=5
+        I:PotionBoxOffsetX=44
+        I:PotionBoxOffsetY=29
+    }
+
+    ordering {
+        S:BackgroundOrder=1
+        I:FrameOrder=5
+        I:HealthBarOrder=4
+        I:HealthBarTextOrder=8
+        I:MobPreviewOrder=2
+        I:MobTypeOrder=7
+        I:NamePlateOrder=6
+        I:NamePlateTextOrder=9
+        I:PotionBoxOrder=3
+    }
+
+    info {
+        S:Author=HanFox
+        S:SkinName=PureBDcraft Stone #1
+    }
+
+    textsettings {
+        S:HealthTextColor=FFFFFF
+        S:NameTextColor=FFFFFF
+    }
+
+}
+
+

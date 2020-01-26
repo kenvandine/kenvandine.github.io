@@ -1,0 +1,43 @@
+# Configuration file
+
+lootcontrol {
+
+    common {
+        # Chances that a roll will be successful. [range: 0.0 ~ 1.0, default: 0.5]
+        S:Odds=0.5
+
+        # How many times items are attempted to be added to this chest. Added on top of more common chests. [range: 0 ~ 30, default: 10]
+        I:RollCount=10
+    }
+
+    uncommon {
+        # Chances that a roll will be successful. [range: 0.0 ~ 1.0, default: 0.5]
+        S:Odds=0.5
+
+        # How many times items are attempted to be added to this chest. Added on top of more common chests. [range: 0 ~ 30, default: 5]
+        I:RollCount=5
+    }
+
+    rare {
+        # Chances that a roll will be successful. [range: 0.0 ~ 1.0, default: 0.85]
+        S:Odds=0.85
+
+        # How many times items are attempted to be added to this chest. Added on top of more common chests. [range: 0 ~ 30, default: 3]
+        I:RollCount=3
+    }
+
+}
+
+
+worldgen {
+    B:GenerateInAllDimension=false
+    I:GenerateInWorldIDs <
+        0
+     >
+    B:GenerateOverworldOnly=true
+
+    # ODDS that a structure will spawn. Between 0 and 5%(0 and 0.05). 0 will prevent spawning entirely. [range: 0.0 ~ 0.05, default: 0.015]
+    S:Odds=0.005
+}
+
+
