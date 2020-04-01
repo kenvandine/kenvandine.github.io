@@ -2,11 +2,11 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "AmanCraft 2.0",
-      "name" : "AmanCraft2.0",
-      "version" : "2020-01-25-22-42-41",
-      "location" : "amancraft2.0.json",
-      "priority" : 1
+      "title" : "CrazyCraft 4",
+      "name" : "CrazyCraft4",
+      "version" : "2020-03-31-20-09-33",
+      "location" : "crazycraft4.json",
+      "priority" : 3
     },
     {
       "title" : "AmanCraft Builders Paradise",
